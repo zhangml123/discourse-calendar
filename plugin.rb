@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+
 
 # name: discourse-calendar
 # about: Display a calendar in the first post of a topic

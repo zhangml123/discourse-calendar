@@ -10,7 +10,7 @@ function initializeDiscourseCalendar(api) {
           "/plugins/discourse-calendar/javascripts/fullcalendar-with-moment-timezone.min.js"
         ).then(() => {});
       
-   
+       
 }
 
 export default {
